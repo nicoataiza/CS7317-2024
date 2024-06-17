@@ -1,0 +1,10 @@
+name: /home/nic/Uni/CS7317/.venv
+channels:
+  - defaults
+dependencies:
+  - jupyter
+  - matplotlib
+  - pandas
+  - seaborn
+  - scikit-learn
+prefix: /home/nic/Uni/CS7317/.venv
